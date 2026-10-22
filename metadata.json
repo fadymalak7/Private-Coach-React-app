@@ -1,0 +1,6 @@
+{
+  "name": "Mina Nashat Fitness Coaching",
+  "description": "تدريب شخصي وتغذية مخصصة أونلاين مع كابتن مينا نشأت. خطط تدريب ونظام غذائي مرن ومتابعة أسبوعية دقيقة للوصول لأفضل نسخة من جسمك.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
